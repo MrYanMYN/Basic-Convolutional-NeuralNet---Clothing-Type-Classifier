@@ -2,7 +2,6 @@ import tensorflow as tf
 Import TensorFlow Datasets
 import tensorflow_datasets as tfds
 tfds.disable_progress_bar()
-import matplotlib.pyplot as plt
 import math
 import numpy as np
 import matplotlib.pyplot as plt
